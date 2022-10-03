@@ -1,12 +1,12 @@
 /*
  * Created on 8/3/18 by AJT
- * Updated on 10/07/2021 by DGC
+ * Updated on 10/03/2022 DAC
  */
 package hello.test.pkg1;
 
 public class HelloTest1 {
     /*
-     * I can follow the steps easy enough but have no idea what I'm doing!!!
+     * This is my first pull request for the class!
      */
     public static void main(String[] args) {
         System.out.println("Welcome");
